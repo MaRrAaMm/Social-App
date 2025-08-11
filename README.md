@@ -58,8 +58,8 @@ src
 │   │   └── message.validation.js  
 │   │  
 │   └── user  
-│   |   ├── user.controller         
-|   |   └── user.service.js  
+│       ├── user.controller.js  
+│       └── user.service.js  
 │  
 ├── utils  
 │   ├── crypto/  
